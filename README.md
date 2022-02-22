@@ -1,6 +1,12 @@
 # Definition
 * Big data =
 
+# 5 Vs to classify data
+1. Volume
+2. Velocity
+3. Variety ( Structured Data, Semi-Structured Data, Unstructured Data )
+4. Veracity ( Accuracy , Trustworthiness )
+5. Value
 
 # To Read
 
